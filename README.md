@@ -1,7 +1,9 @@
 # portfolio_website
 
 Portfolio Website made by following [guide](https://www.youtube.com/watch?v=xV7S8BhIeBo&ab_channel=freeCodeCamp.org) to learn _**HTML SCSS**_ and _**JavaScript**_ features.
-SIte is fully responsive with many interaction features.
+Site is fully responsive with many interaction features.
+
+You can check it by clicking on the link: [Dmitrii's Portfolio Website](https://dm4nk.github.io/).
 
 ### Main Page
 ![image](https://user-images.githubusercontent.com/80630476/162738672-6d1576d8-672b-45b1-b587-eec589fb756c.png)
