@@ -4,7 +4,7 @@ Portfolio Website made by following [guide](https://www.youtube.com/watch?v=xV7S
 SIte is fully responsive with many interaction features.
 
 ### Main Page
-![image](https://user-images.githubusercontent.com/80630476/162737969-b97cc872-9828-47ff-9400-f8fb76bed33c.png)
+![image](https://user-images.githubusercontent.com/80630476/162738672-6d1576d8-672b-45b1-b587-eec589fb756c.png)
 
 ### About 
 ![image](https://user-images.githubusercontent.com/80630476/162738218-2f3a04e7-6d20-462f-b298-95da915c1e42.png)
